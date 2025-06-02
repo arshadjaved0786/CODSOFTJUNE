@@ -1,4 +1,4 @@
-# MICRO IT INTERSHIP 
+# CALCULATOR
 
 # Advanced Python Calculator
 
