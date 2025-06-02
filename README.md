@@ -1,4 +1,5 @@
-# CODSOFTJUNE
+# MICRO IT INTERSHIP 
+
 # Advanced Python Calculator
 
 This is a simple yet advanced calculator application written in Python. It supports basic arithmetic operations as well as some advanced features like power, modulus, and square root.
